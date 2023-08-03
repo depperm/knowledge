@@ -14,6 +14,7 @@
   * [ide.onelang.io](https://ide.onelang.io)
   * [vscode.dev](https://vscode.dev)
   * [tio.run](https://tio.run)
+  * [codeshare.io](https://codeshare.io) (no interpreter, sharing code-interview/mentoring)
 * Visual
   * [arcade.makecode.com](https://arcade.makecode.com)
   * [scratch.mit.edu](https://scratch.mit.edu/projects/editor/?tutorial=getStarted)
