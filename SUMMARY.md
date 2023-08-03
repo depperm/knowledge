@@ -1,4 +1,6 @@
 # Table of contents
 
-* [IDE/Editor](README.md)
-* [Video/Graphic/Visual/Art](video-graphic-visual-art.md)
+* [General](README.md)
+* [Challenges](challenges.md)
+* [Regex](regex.md)
+* [Code Online](code-online.md)
