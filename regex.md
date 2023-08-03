@@ -1,16 +1,10 @@
----
-description: >-
-  Some common regex cases have already been done, don't repeat work look up:
-  https://ihateregex.io
----
-
 # Regex
 
 
 
 * Learning/Reference
   * [stackoverflow.com/questions/4736/learning-regular-expressions](https://stackoverflow.com/questions/4736/learning-regular-expressions)
-  * [ihateregex.io](https://ihateregex.io)
+  * [ihateregex.io](https://ihateregex.io) (common case regex may have been created already)
   * [regular-expressions.info](https://www.regular-expressions.info/quickstart.html)
 * Testing
   * [regex101](https://regex101.com)
