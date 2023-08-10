@@ -7,7 +7,7 @@
 
 ## 💻 Programming
 
-* [Free IDE/Editors](programming/free-ide-editors.md)
+* [General](programming/general.md)
 * [Code Online](programming/code-online.md)
 * [Challenges](programming/challenges.md)
 * [Regex](programming/regex.md)
