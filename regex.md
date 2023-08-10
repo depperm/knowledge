@@ -1,3 +1,10 @@
+---
+description: >-
+  The bane of many a programmer, pattern matching can be quite handy. There is
+  plenty of complexity though, but there are also plenty of tools to help
+  understand and test what you're doing.
+---
+
 # Regex
 
 
