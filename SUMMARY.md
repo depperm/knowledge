@@ -11,3 +11,7 @@
 * [Code Online](programming/code-online.md)
 * [Challenges](programming/challenges.md)
 * [Regex](programming/regex.md)
+
+## 💰 Free Software
+
+* [IDE/Text Editor](free-software/ide-text-editor.md)
