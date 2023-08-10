@@ -10,7 +10,7 @@ description: >-
 
 
 
-* Wandering Inn
-* Royalroad
+* [Wandering Inn](https://wanderinginn.com)
+* [Royalroad](https://www.royalroad.com)
   * Complete
   * Ongoing
