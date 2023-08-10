@@ -1,13 +1,9 @@
-# IDE/Editor/Text
+# General
 
 
 
-* IDE/Editor
-  * [neovim](https://neovim.io)
-    * [lazyvim](https://www.lazyvim.org)
-  * [helix-editor](https://helix-editor.com)
-  * [kate-editor](https://kate-editor.org)
-  * [sublimetext](https://www.sublimetext.com)
-  * [brackets.io](https://brackets.io)
-  * [code.visualstudio](https://code.visualstudio.com)
-  * [notepad-plus-plus](https://notepad-plus-plus.org)
+### Advice
+
+
+
+It doesn't matter what language or what framework, just code something. Start small and do some [challenges](challenges.md) but put some code down. Find a [github ](https://github.com/search?q=javascript\&type=repositories)project in the language of your choice, or find a project and pick another language. Recreate your favorite website/game, add a missing feature, simplify it, change it, or create something completely new.
