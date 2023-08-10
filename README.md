@@ -1,18 +1,16 @@
 ---
 description: >-
-  I don't really have favorite series, I have favorite authors. Some only have
-  one series, others multiple. Those listed are just those that I've read and
-  enjoyed.
+  I like free stuff. That said several of these books I've since gone on to
+  purchase as I enjoy their content and want to show my support.
 ---
 
-# Fantasy - Paid
+# Online - Free
 
 
 
-* Brandon Sanderson
-  * Stormlight Archives
-* Michael J Sullivan
-* Jim Butcher
-  * Codex Alera
-  * Dresden Files
-* Michael G Manning
+
+
+* Wandering Inn
+* Royalroad
+  * Complete
+  * Ongoing

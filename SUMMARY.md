@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Fantasy - Paid](README.md)
-* [Online/Fanfiction - Free](online-fanfiction-free.md)
+## Books
+
+* [Online - Free](README.md)
+* [Fantasy - Paid](books/fantasy-paid.md)
